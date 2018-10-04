@@ -38,9 +38,12 @@ Most of the code in this project has been written to the ES6 JavaScript specific
 
 ## Resources
 
-[Udacity Project Repository](https://github.com/udacity/mws-restaurant-stage-1)
-[Grid Display Instructions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
-[ServiceWorkers] (https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
-Thanks to [Doug Brown's Video](https://www.youtube.com/watch?v=92dtrNU1GQc) which helped alot.
+- [Udacity Project Repository](https://github.com/udacity/mws-restaurant-stage-1)
+
+- [Grid Display Instructions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
+
+- [ServiceWorkers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+
+- Thanks to [Doug Brown's Video](https://www.youtube.com/watch?v=92dtrNU1GQc) which helped alot.
 
 
